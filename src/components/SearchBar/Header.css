@@ -1,0 +1,24 @@
+.Insta-font{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.6rem;
+}
+
+.icons{
+    display: flex;
+    justify-content: space-between
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: rgb(195, 201, 201);
+    border: 1px solid black;
+}
+.com{
+    display: flex;
+    justify-content: space-around;
+}
+input{
+    height: 30px;
+}
